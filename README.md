@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @silence4395
-- 👀 I’m interested in IC/NN 
+- 👀 I’m interested in AI-chip architect 
 - 🌱 I’m currently learning scala
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
